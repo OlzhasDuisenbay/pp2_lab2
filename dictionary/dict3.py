@@ -1,0 +1,3 @@
+x = {'type' : 'fruit', 'name' : 'banana'}
+print(x['type'])
+#fruit
