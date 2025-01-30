@@ -1,2 +1,2 @@
 x = {'type' : 'fruit', 'name' : 'apple'}
-x.update({'color' = 'green'})
+x.update({'color' : 'green'})
